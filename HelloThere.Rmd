@@ -2,7 +2,9 @@
 title: "HelloThere"
 author: "Ken"
 date: "11/10/2020"
-output: html_document
+output: github_document
+##output: html_document: 
+  ##keep_md: true
 ---
 
 ```{r setup, include=FALSE}
