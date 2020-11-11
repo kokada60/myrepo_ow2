@@ -8,3 +8,18 @@ Hmm after the file is being edited, will commit and push to the remote repo.
 
 Hahaha !!Trying to mess it up here.
 Test line here!
+
+Adding one line 
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+And while in main branch added one line to be merged with testbranch Did I mess this up?
+=======
+And while in main branch added one line to be merged and messing this up here!
+>>>>>>> main
+=======
+And while in main branch added one line to be merged and messing this up here!
+>>>>>>> main
+=======
+And while in main branch added one line to be merged and messing this up here!
+>>>>>>> main
