@@ -10,9 +10,3 @@ Hahaha !!Trying to mess it up here.
 Test line here!
 
 Adding one line 
-<<<<<<< HEAD
-Added one line -- main branch
-=======
-Added one line2 -- testbranch2
-
->>>>>>> testbranch2
