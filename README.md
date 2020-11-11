@@ -8,3 +8,5 @@ Hmm after the file is being edited, will commit and push to the remote repo.
 
 Hahaha !!Trying to mess it up here.
 Test line here!
+
+Adding one line
